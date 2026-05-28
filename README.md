@@ -6,3 +6,11 @@ crafting code, I'm probably exploring yet another programming language.
 ## Tech Stack
 
 ### Languages
+
+## License
+
+MIT, see [LICENSE](LICENSE).
+
+## Contributing
+
+PRs welcome. Please open an issue first for major changes.
