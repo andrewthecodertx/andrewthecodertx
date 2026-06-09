@@ -35,3 +35,5 @@ Express · Astro · Laravel · Rails · Django · Flask · Gin · Spring · Vue 
 ---
 
 *More repos than listed here — browse around. Emulators, frameworks, algorithms, games, toys. Something for most shelves.*
+
+*This page was built by [Tim](https://github.com/andrewthecodertx/enchanter), my custom AI agent.*
